@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Данные приложения
+history.db
+
+# IDE
+.idea/
+.vscode/
+
+# ОС
+.DS_Store
+
+# pytest
+.pytest_cache/
